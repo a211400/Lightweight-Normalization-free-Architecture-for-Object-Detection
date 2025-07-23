@@ -1,0 +1,28 @@
+# Dataset paths
+path: dataset  # dataset root dir
+train: images/train2017  # train images (relative to 'path')
+val: images/val2017  # val images (relative to 'path')
+
+# Classes
+names:
+0: airplane
+1: airport
+2: baseball field
+3: basketball court
+4: bridge
+5: chimney
+6: dam
+7: expressway service area
+8: expressway toll station
+9: golf field
+10: ground track field
+11: harbor
+12: overpass
+13: ship
+14: stadium
+15: storagetank
+16: tenniscourt
+17: trainstation
+18: vehicle
+19: windmill
+nc: 20  # number of classes
