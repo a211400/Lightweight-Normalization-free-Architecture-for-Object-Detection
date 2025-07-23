@@ -2,8 +2,6 @@
 ### Installation
 
 ```
-conda create -n YOLO python=3.10.10
-conda activate YOLO
 pip install -r requirements.txt
 
 ```
