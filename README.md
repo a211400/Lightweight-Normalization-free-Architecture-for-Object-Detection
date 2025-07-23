@@ -1,1 +1,1 @@
-# D-code-Lightweight-Normalization-free-Architecture-for-Object-Detection
+# Lightweight-Normalization-free-Architecture-for-Object-Detection
